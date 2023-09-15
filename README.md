@@ -6,5 +6,6 @@ This Code is a simple example of reading the transmitted data (buttons status, b
 further usages; so it can be implemented in other programs.
 > for more information about HID devices:
 [introduction to HID](https://docs.kernel.org/hid/index.html)
+
 > for more information about the received data from DS4:
 [PS dev wiki](https://www.psdevwiki.com/ps4/DS4-USB)
